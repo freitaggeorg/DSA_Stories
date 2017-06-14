@@ -11,3 +11,4 @@ Learn about GitHub
 - push the changes to github
 
 ## Day3
+- testing a lot with github and gulp
