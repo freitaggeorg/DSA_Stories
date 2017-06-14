@@ -9,3 +9,6 @@ Learn about GitHub
 - open VSC via CML `code .`
 - change the readme file
 - push the changes to github
+
+## Day3
+- test123
